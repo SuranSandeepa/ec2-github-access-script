@@ -1,5 +1,14 @@
 #!/bin/bash
 
+################################
+# Author: Suran
+# Date: 4th-Nov
+#
+# Version: v1
+#
+# About: This script interacts with the GitHub API to list users who have read access to a specific repository.
+####################################
+
 # GitHub API URL
 API_URL="https://api.github.com"
 
